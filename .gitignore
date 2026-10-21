@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.db
+results/*
+!results/.gitkeep
+
+# Testing and virtual environments
+.pytest_cache/
+venv/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+data/
+results/*
+!results/.gitkeep
